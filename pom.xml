@@ -3,19 +3,19 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>selenium</groupId>
-  <artifactId>PageObjectModel</artifactId>
+  <artifactId>Practise</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>PageObjectModel</name>
+  <name>Practise</name>
   <url>http://maven.apache.org</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
-  
-  <dependencies>
+
+	<dependencies>
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
@@ -52,6 +52,6 @@
 
 	
 	</dependencies>
-  
-  
+
+
 </project>
